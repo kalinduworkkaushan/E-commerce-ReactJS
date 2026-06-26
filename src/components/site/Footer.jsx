@@ -33,7 +33,7 @@ export function Footer() {
       </div>
       <div className="border-t border-white/10">
         <div className="mx-auto flex max-w-[1400px] flex-col items-center justify-between gap-2 px-4 py-4 text-xs text-primary-foreground/70 md:flex-row">
-          <p>© {new Date().getFullYear()} Kibsons International. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} bit64. All rights reserved.</p>
           <div className="flex items-center gap-4">
             <span className="flex items-center gap-1"><Phone className="h-3 w-3" /> 800 KIBSONS</span>
             <span className="flex items-center gap-1"><Mail className="h-3 w-3" /> hello@kibsons.com</span>
